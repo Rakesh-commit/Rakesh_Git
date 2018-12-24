@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-welcoome Merging
-=======
-<<<<<<< HEAD
-welcoome to Hyd
-=======
-welcoome ssss
->>>>>>> Rakesh
->>>>>>> master
+wlcome to dubai
